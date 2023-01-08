@@ -1,5 +1,5 @@
-<h2>Hi 👋, I'm Adam</h2>
-<h4>Self-taught frontend developer</h4>
+### Hi 👋, I'm Adam
+Self-taught frontend developer
 
 - 🌱 I’m currently learning **React, JavaScript**
 
