@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Adam
 Self-taught frontend developer
-currently learning **React, JavaScript**
+
 
 
 <h4 align="left">Languages and Tools:</h4>
