@@ -1,4 +1,4 @@
-<h4>Self-taught frontend developer</h4>
+<h4>Front-End Developer</h4>
 
 
 
