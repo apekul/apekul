@@ -1,5 +1,4 @@
-<h4>Hi there👋</h4>
-Self-taught frontend developer
+<h4>Self-taught frontend developer</h4>
 
 
 
